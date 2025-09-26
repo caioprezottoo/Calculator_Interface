@@ -21,6 +21,7 @@ The project also includes an **operation history card**, so you can see past cal
 
 ## 📂 Project Structure
 project-root/
+
 │── index.html # Entry point with inline React & Tailwind setup
 
 │── README.md # Documentation
